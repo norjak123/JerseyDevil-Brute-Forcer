@@ -1,5 +1,5 @@
 # JerseyDevil-Brute-Forcer
-JerseyDevil.py
+Jersey Devil Brute Forcer
 	by Norjak123
 --
 Jersey Devil is a simple bruteforcer for Instagram, coded in Python.
