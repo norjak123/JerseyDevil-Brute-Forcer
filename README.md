@@ -7,5 +7,5 @@ You can easily extend it modifying the JerseyDevil class.
 
 Disclaimer: This script is for educational purposes only.
 	I am not responsible for how you use this program.
-
+--
 Goodbye. Norjak.
