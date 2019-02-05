@@ -1,4 +1,3 @@
-# JerseyDevil-Brute-Forcer
 Jersey Devil Brute Forcer
 	by Norjak123
 --
